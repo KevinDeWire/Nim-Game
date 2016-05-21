@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\NimGameFinal\NimGame\bin\Debug\NimGame.exe.config
+E:\Documents\Visual Studio 2015\Projects\NimGameFinal\NimGame\bin\Debug\NimGame.exe
+E:\Documents\Visual Studio 2015\Projects\NimGameFinal\NimGame\bin\Debug\NimGame.pdb
+E:\Documents\Visual Studio 2015\Projects\NimGameFinal\NimGame\obj\Debug\NimGame.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\NimGameFinal\NimGame\obj\Debug\NimGame.exe
+E:\Documents\Visual Studio 2015\Projects\NimGameFinal\NimGame\obj\Debug\NimGame.pdb
